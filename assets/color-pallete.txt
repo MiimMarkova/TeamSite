@@ -1,0 +1,11 @@
+//COLOR PALLETE
+
+bg: #f6f6db;
+bg-light: #f6f6db;
+bg-dark: #d6c0a3;
+
+color: #4b423b;
+color-light: #84796b;
+color-dark: #3c3735;
+
+accent: #820004;
